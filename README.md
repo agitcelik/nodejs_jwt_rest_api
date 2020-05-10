@@ -2,7 +2,7 @@ This is the project dependicies.
 
 Node.js JWT Authentication & PostgreSQL
 
-– Express RestAPIs
+- Express RestAPIs
 - JSON Web Token
 - BCryptjs
 - Sequelize
